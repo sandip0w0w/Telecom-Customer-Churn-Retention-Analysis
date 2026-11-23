@@ -129,11 +129,11 @@ This project evaluates customer behavior across several key dimensions:
 
 | Metric / Dimension | Primary Observation | Actionable Recommendation |
 | :--- | :--- | :--- |
-| Contract Terms | Month-to-Month plans drive the vast majority of customer churn[cite: 3]. | Offer financial incentives or device upgrades to convert Month-to-Month users into 1-Year or 2-Year contracts[cite: 3]. |
-| Promotional Offers | Offer A retains over 90% of users, whereas Offer E shows over 50% churn[cite: 4]. | Phase out or restructure Offer E, and apply Offer A retention mechanics to new subscriber onboarding[cite: 4]. |
-| Monthly Charges | Churned customers show higher average monthly charges (~$70-$78) across all age brackets[cite: 5]. | Implement automated price-lock alerts and proactive retention discounts for high-tier plan holders[cite: 5]. |
-| Competitive Losses | Competitors offering better devices, better offers, and more data are major drivers of churn[cite: 7]. | Upgrade hardware trade-in programs and bundle competitive devices or data perks with long-term plans[cite: 7]. |
-| Customer Support | Support agent attitude contributes noticeably to customer churn[cite: 7]. | Retrain frontline support agents and establish clear escalation paths for dissatisfied callers[cite: 7]. |
+| Contract Terms | Month-to-Month plans drive the vast majority of customer churn. | Offer financial incentives or device upgrades to convert Month-to-Month users into 1-Year or 2-Year contracts. |
+| Promotional Offers | Offer A retains over 90% of users, whereas Offer E shows over 50% churn. | Phase out or restructure Offer E, and apply Offer A retention mechanics to new subscriber onboarding. |
+| Monthly Charges | Churned customers show higher average monthly charges (~$70-$78) across all age brackets. | Implement automated price-lock alerts and proactive retention discounts for high-tier plan holders. |
+| Competitive Losses | Competitors offering better devices, better offers, and more data are major drivers of churn. | Upgrade hardware trade-in programs and bundle competitive devices or data perks with long-term plans. |
+| Customer Support | Support agent attitude contributes noticeably to customer churn[cite: 7]. | Retrain frontline support agents and establish clear escalation paths for dissatisfied callers. |
 ---
 
 
