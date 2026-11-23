@@ -135,14 +135,13 @@ This project evaluates customer behavior across several key dimensions:
 
 | **Contract Terms** | Month-to-Month plans drive 90%+ of total customer churn. | Offer financial incentives or device upgrades to convert Month-to-Month users into 1-Year or 2-Year contracts. |
 
-| **Promotional Offers** | **Offer A** retains customers (>90%); **Offer E** loses over 50% of users. | Phase out or restructure **Offer E**. Apply **Offer A** contract structures to new subscriber onboarding. |
+| **Promotional Offers** | Offer A retains customers (>90%); Offer E loses over 50% of users. | Phase out or restructure Offer E. Apply Offer A contract structures to new subscriber onboarding. |
 
 | **Monthly Charges** | Customers paying >$70/month churn at the highest rates across all ages. | Implement automated price-lock alerts and proactive retention discounts for high-tier plan holders. |
 
 | **Competitive Losses** | Competitors' superior device catalogs and offers drive over 600 lost accounts. | Upgrade hardware trade-in programs and bundle popular devices with long-term plans. |
 
 | **Customer Support** | Customer service interaction issues directly caused 200+ churned accounts. | Retrain frontline support agents and establish clear escalation paths for dissatisfied callers. |
-
 
 
 ---
@@ -154,14 +153,6 @@ This project evaluates customer behavior across several key dimensions:
 
 
 * **Tools Used:** Microsoft Excel (PivotTables, PivotCharts, Custom Array Formulas)
-
-* **Age Classification Logic:**
-
-  ```excel
-
-  =IF(B2>60, "Senior", IF(B2>40, "Middle-Aged", IF(B2>21, "Adult", "Youth")))
-
-  ```
 
 * **Status Categories:**
 
