@@ -133,7 +133,7 @@ This project evaluates customer behavior across several key dimensions:
 | Promotional Offers | Offer A retains over 90% of users, whereas Offer E shows over 50% churn. | Phase out or restructure Offer E, and apply Offer A retention mechanics to new subscriber onboarding. |
 | Monthly Charges | Churned customers show higher average monthly charges (~$70-$78) across all age brackets. | Implement automated price-lock alerts and proactive retention discounts for high-tier plan holders. |
 | Competitive Losses | Competitors offering better devices, better offers, and more data are major drivers of churn. | Upgrade hardware trade-in programs and bundle competitive devices or data perks with long-term plans. |
-| Customer Support | Support agent attitude contributes noticeably to customer churn[cite: 7]. | Retrain frontline support agents and establish clear escalation paths for dissatisfied callers. |
+| Customer Support | Support agent attitude contributes noticeably to customer churn. | Retrain frontline support agents and establish clear escalation paths for dissatisfied callers. |
 ---
 
 
